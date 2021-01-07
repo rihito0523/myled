@@ -7,6 +7,6 @@
 ・ジャンパー線  
 # 使用方法  
 ## インストール  
-ラズベリーパイ上で　git clone https://github.com/kaito-toda/myled.git
+ラズベリーパイ上で　git clone https://github.com/rihito0523/myled.git
 myled,Makefileが同じディレクトリにインストールしてあることを確認し、ディレクトリ内でmake
 同じファイル上にmyled.koができていれば準備完了。
