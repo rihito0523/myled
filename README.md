@@ -20,4 +20,6 @@ echo 0 > dev/myled0　　消灯
 sudo rmmod myledで終了。  
 # LED点滅ギミックについて  
 ヘッダーファイルにlinux/delay.hを追加。  
+__delay(10*1000*1000);を加えて点滅。  
+(
 
