@@ -23,5 +23,6 @@ sudo rmmod myledで終了。
 __delay();を加えて点滅。  
 （ソースコード32行目から35行目）  
 # 動作確認動画  
+https://youtu.be/7YtBClInJ_w
 
 
